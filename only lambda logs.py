@@ -1,3 +1,5 @@
+# One log group name with one text file for only lambda functions
+
 import boto3
 import json
 import time
